@@ -11,3 +11,5 @@
 - 📫  How to reach me: https://ashishrawat.dev
 
 - ⚡  Fun fact: I am also a photographer , Check [here](https://500px.com/ashishrawat2911) 
+
+[![Ashish's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=ashishrawat2911&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
