@@ -18,3 +18,7 @@
 ![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat2911&theme=vue) ![Ashish's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=ashishrawat2911&show_icons=true&line_height=21&show_icons=true&theme=vue)
 
 </details>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashishrawat2911/count.svg" />
+</p>
