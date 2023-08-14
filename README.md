@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Namaste, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Ashish Rawat</h1>
+
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashishrawat2911/count.svg" />
+</p>
+
 
 - 🔭  I’m currently working on Flutter and Android.
 
@@ -11,14 +20,3 @@
 - 📫  How to reach me: https://linktr.ee/ashishrawat2911
 
 - ⚡  Fun fact: I am also a photographer, Check [here](https://500px.com/ashishrawat2911) 
-
- <details>
-<summary>📊 Github Stats</summary>
-
-![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat2911&theme=vue) 
-
-</details>
-<p > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashishrawat2911/count.svg" />
-</p>
